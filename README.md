@@ -1,5 +1,10 @@
 Brosephina2.0
 =============
+<h4>Ladda ner</h4>
+Du kan ladda ner Brosephina2.0 från GitHub. det gör du med hjälp av följande komando:<br/>
+<i>git clone git://github.com/brosephina/Brosephina2.0.git</i><br/>
+Du kan kolla på källkoden på GitHub via länken <a href='https://github.com/brosephina/Brosephina2.0'>GitHub</a><br/>
+Nu kan du börja med installationen<br/>
 <h4>Installation</h4>
 <p>Först måste du göra data-katalogen skrivbar. Detta är platsen där Brosephina måste kunna skriva och skapa filer. <br/>
 CD brosephina, chmod 777 site / data<br/>
