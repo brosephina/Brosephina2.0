@@ -8,8 +8,8 @@ Nu kan du börja med installationen<br/>
 <h4>Installation</h4>
 <p><b>Först:</b> måste du göra data-katalogen skrivbar. Detta är platsen där Brosephina måste kunna skriva och skapa filer. 
 Det gör du med hjälp desssa komandon:<br/>
-cd brosephina<br/>
-chmod 777 site/data<br/>
+<i>cd brosephina<br/>
+chmod 777 site/data</i><br/>
 <b>Andra:</b> måste du gå in i filen .htaccess och ändra koden ~chpg11/DV1440/me/Brosephina2.0 till din egen root och där du sätter din Brosephina2.0<br/>
 <b>Tredje:</b> har Brosephina några moduler som måste initieras. Du kan göra detta genom en styrenhet. Peka din webbläsare till din Brosephina2.0 och sedan tryck på länken som 
 ser ut som den nedan. <br/>
